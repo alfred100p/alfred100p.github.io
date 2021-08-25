@@ -83,7 +83,7 @@ author:
   name             : "Alfred William Jacob"
   avatar           : "profile.png"
   bio              : "Undergraduate Researcher at BITS ML/AI Lab and APPCAIR AI Research Center"
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fr9TNLcAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alfred-william-jacob"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
