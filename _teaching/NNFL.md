@@ -1,5 +1,5 @@
 ---
-title: "Neural Networks and Fuzzy Logic"
+title: "Neural Networks and Fuzzy Logic (BITS F312)"
 collection: teaching
 type: "Undergraduate Course Teaching Assistant"
 permalink: /teaching/NNFL
