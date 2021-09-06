@@ -1,6 +1,6 @@
 ---
 title: "Mutlilingual Hatespeech Detection @ WISoC Laboratory"
-excerpt: "Introducing a novel feature for improved understanding in Images.<br/>"
+excerpt: "Introducing a novel feature for improved understanding in Images.<br/><img src='/images/hatespeechmodels.png' width='500' height='300'>"
 collection: portfolio
 ---
 
