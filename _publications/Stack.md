@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Stack
 excerpt: 'Detecting Hostile Speech with pre-trained word embeddings, stacked word embeddings, and fine-tuned XLM-RoBERTa model.'
 date: 2021-04-09
-venue: 'CONSTRAINT 2021'
+venue: 'CONSTRAINT 2021, presented at AAAI'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-73696-5_21'
 citation: 'Sai S., Jacob A.W., Kalra S., Sharma Y. (2021) Stacked Embeddings and Multiple Fine-Tuned XLM-RoBERTa Models for Enhanced Hostility Identification. In: Chakraborty T., Shu K., Bernard H.R., Liu H., Akhtar M.S. (eds) Combating Online Hostile Posts in Regional Languages during Emergency Situation. CONSTRAINT 2021. Communications in Computer and Information Science, vol 1402. Springer, Cham.'
 ---
@@ -12,4 +12,4 @@ Designing effective automated techniques for proper identification and categoris
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_21)
 
-Sai S., Jacob A.W., Kalra S., Sharma Y. (2021) Stacked Embeddings and Multiple Fine-Tuned XLM-RoBERTa Models for Enhanced Hostility Identification. In: Chakraborty T., Shu K., Bernard H.R., Liu H., Akhtar M.S. (eds) Combating Online Hostile Posts in Regional Languages during Emergency Situation. CONSTRAINT 2021. Communications in Computer and Information Science, vol 1402. Springer, Cham. https://doi.org/10.1007/978-3-030-73696-5_21
+
