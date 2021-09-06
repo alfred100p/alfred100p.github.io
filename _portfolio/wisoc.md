@@ -1,10 +1,15 @@
 ---
 title: "Mutlilingual Hatespeech Detection @ WISoC Laboratory"
-excerpt: "Introducing a novel feature for improved understanding in Images.<br/><img src='/images/hatespeechmodels.png' width='500' height='300'>"
+excerpt: "Identifying Hatespeech in English and Hindi using varous language models.<br/><img src='/images/hatespeechmodels.png' width='500' height='300'>"
 collection: portfolio
 ---
 
-Worked under Prof. Yashvardhan Sharma and developed Machine Learning Models using transformers, stacked embeddings and work vectors for detection of hate speech in Tweets.
+Worked under Prof. Yashvardhan Sharma and developed Machine Learning Models using transformers, stacked embeddings and work vectors for detection of hate speech in Tweets. We had also used back-translation as a dat augmentation technique to obtain more training data.
+Considered Models:
+* XLM-RoBERTa
+* FAIR Stacked Embeddings
+* ULMFit
+* FastText Word Embeddings
 
 ### Results
 Achieved F1-weighted score of 0.90 for coarse-grained hostility detection and 0.54 F1-weighted score for fine-grained hostility identification
