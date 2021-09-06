@@ -1,6 +1,6 @@
 ---
 title: "Disease Cluster Identification @ TNHSRP"
-excerpt: "Identifying Disease Existing and Future Disease Clusters using Machine Learning Techniques.<br/><img src='/images/tb.png' width="500" height="300">"
+excerpt: "Identifying Disease Existing and Future Disease Clusters using Machine Learning Techniques.<br/><img src='/images/tb.png' width='500' height='300'>"
 collection: portfolio
 ---
 
