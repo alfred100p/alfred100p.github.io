@@ -17,7 +17,7 @@ Work experience
 ======
 * August 2021- Present: Undergraduate Researcher
   * APPCAIR AI Research Center
-  * Duties included: Crop Yield Prediction
+  * Duties included: Natural Language Processing
   * Supervisor: Professor Navneet Goyal
 
 * December 2020- Present: Undergraduate Researcher
