@@ -1,20 +1,13 @@
 ---
 title: "Deep Learning (CS F425)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course Teaching Assistant"
 permalink: /teaching/DL
-venue: "Birla Institute of Technology and Science, Computer Science Department"
+venue: "Birla Institute of Technology and Science, CSIS"
 date: 2021-08-16
 location: "Pilani, India"
 ---
 
-Assisted students with their term paper and compiled list of topics for Assignment 2.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Assisted students with implementing current research papers and trying to improve it.
+* Compiled list of topics for Assignment 2.
+* Selected as one of the three TAs.
