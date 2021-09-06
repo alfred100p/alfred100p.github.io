@@ -16,7 +16,7 @@ Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/fil
 ### Education
 I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). During my time here I was a part of three labs as an Undergraduate Researcher. 
 
-* <a href="https:alfred100p.github.io/portfolio/appcair">APPCAIR AI Research Center</a> (8/2021- Present)
+* <a href="https:alfred100p.github.io/portfolio/appcair">Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR)</a> (8/2021- Present)
 * <a href="https:alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- Present)
 * <a href="https:alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
 
