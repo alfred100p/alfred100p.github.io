@@ -9,28 +9,29 @@ redirect_from:
 ---
 I am an Undergraduate Researcher at the BITS AI/ML Lab and the APPCAIR AI Research Center. I am interested in Cognitive AI, natural language processing, Reinforcement Learning and deep learning. My current projects include  <a href="#brl">bayesian reinforcement learning for optimal control</a> and <a href="#rpf">knowledge-based tasks for images</a>.
 
-## My work and research
-<!---
-"Computers are my jetpack to propel me to my goals, Deep Learning is the additional nuclear booster pack."
-*-Alfred*
-
-
-I have published work related to detecting Hate Speech in tweets in Hindi and English.
-
-
-I use qualitative, quantitative, and computational methods to holistically investigate socio-technical systems of technology and knowledge production. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. Most of my previous work has focused on [Wikipedia](http://enwp.org/Wikipedia), where I've studied the people and algorithms that produce and maintain an open encyclopedia. I’ve also studied scientific research networks and projects, including the [Long-Term Ecological Research Network](https://lternet.edu/), the [Open Science Grid](https://www.opensciencegrid.org/), and the [Moore-Sloan Data Science Environments](http://msdse.org/). I study topics including newcomer socialization, cooperation and conflict, community governance, specialization and professionalization, information verification and quality control, hackathons and community workshops, the roles of support staff and technicians, bias and discrimination, and diversity and inclusion. I also often focus on how these issues all intersect with and are embedded in the design of software and automated systems.
-
 ## My background and history
 I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). During my time here I was a part of three labs as an Undergraduate Researcher. 
 
-* APPCAIR AI Research Center (8/2021- Present)
-* BITS AI/ML Lab (12/2020- Present)
-* Web Intelligence & Social Computing Laboratory (3/2020-12/2020)
+* <a href="https:alfred100p.github.io/portfolio/appcair">APPCAIR AI Research Center</a> (8/2021- Present)
+* <a href="https:alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- Present)
+* <a href="https:alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
 
 I am currently a Teaching Assistant for the following Courses:
 
 * Deep Learning (CS F425)
 * Neural Networks and Fuzzy Logic (BITS F312)
+
+
+<!---
+## My work and research
+
+"Computers are my jetpack to propel me to my goals, Deep Learning is the additional nuclear booster pack."
+*-Alfred*
+I have published work related to detecting Hate Speech in tweets in Hindi and English.
+
+
+I use qualitative, quantitative, and computational methods to holistically investigate socio-technical systems of technology and knowledge production. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. Most of my previous work has focused on [Wikipedia](http://enwp.org/Wikipedia), where I've studied the people and algorithms that produce and maintain an open encyclopedia. I’ve also studied scientific research networks and projects, including the [Long-Term Ecological Research Network](https://lternet.edu/), the [Open Science Grid](https://www.opensciencegrid.org/), and the [Moore-Sloan Data Science Environments](http://msdse.org/). I study topics including newcomer socialization, cooperation and conflict, community governance, specialization and professionalization, information verification and quality control, hackathons and community workshops, the roles of support staff and technicians, bias and discrimination, and diversity and inclusion. I also often focus on how these issues all intersect with and are embedded in the design of software and automated systems.
+
 
 ## My intellectual communities
 
