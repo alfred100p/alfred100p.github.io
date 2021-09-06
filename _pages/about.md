@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Undergraduate Researcher at the BITS AI/ML Lab and the APPCAIR AI Research Center. I am interested in Cognitive AI, Reinforcement Learning, Natural Language Processing and deep learning. My current projects include  <a href="https:alfred100p.github.io/portfolio/brl">bayesian reinforcement learning for optimal control</a> and <a href="https:alfred100p.github.io/portfolio/rpf">knowledge-based tasks for images</a>. I also am a contributor to OpenAI's gym repository.
+I am an Undergraduate Researcher at the BITS AI/ML Lab and the APPCAIR AI Research Center. I am interested in Cognitive AI, Reinforcement Learning, Natural Language Processing and deep learning. My current projects include  <a href="https://alfred100p.github.io/portfolio/brl">bayesian reinforcement learning for optimal control</a> and <a href="https://alfred100p.github.io/portfolio/rpf">knowledge-based tasks for images</a>. I also am a contributor to OpenAI's gym repository.
 
 Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/files/Alfred_William_Jacob__Resume.pdf">here</a> to download my Resume.
 
@@ -16,9 +16,9 @@ Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/fil
 ### Education
 I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). During my time here I was a part of three labs as an Undergraduate Researcher. 
 
-* <a href="https:alfred100p.github.io/portfolio/appcair">Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR)</a> (8/2021- Present)
-* <a href="https:alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- Present)
-* <a href="https:alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
+* <a href="https://alfred100p.github.io/portfolio/appcair">Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR)</a> (8/2021- Present)
+* <a href="https://alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- Present)
+* <a href="https://alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
 
 I am currently a Teaching Assistant for the following Courses:
 
@@ -26,13 +26,13 @@ I am currently a Teaching Assistant for the following Courses:
 * Neural Networks and Fuzzy Logic (BITS F312)
 
 ### Colaboration
-I am working with Prof. Heena Rathore (University of Texas, San Antonio), on <a href="https:alfred100p.github.io/portfolio/brl">bayesian reinforcement learning</a> for modelling uncertainity in pandemic situations to improve decision making for administrative policies.
+I am working with Prof. Heena Rathore (University of Texas, San Antonio), on <a href="https://alfred100p.github.io/portfolio/brl">bayesian reinforcement learning</a> for modelling uncertainity in pandemic situations to improve decision making for administrative policies.
 
 ### Work Experience
 I have worked at:
 
-* <a href="https:alfred100p.github.io/portfolio/sri">Samsung Research Institute, Delhi</a>, Research Intern (6/2021-7/2021)
-* <a href="https:alfred100p.github.io/portfolio/wb">Tamil Nadu Health System Reforms Project</a>, a World Bank funded project, Data Analyst Intern (5/2020-6/2020)
+* <a href="https://alfred100p.github.io/portfolio/sri">Samsung Research Institute, Delhi</a>, Research Intern (6/2021-7/2021)
+* <a href="https://alfred100p.github.io/portfolio/wb">Tamil Nadu Health System Reforms Project</a>, a World Bank funded project, Data Analyst Intern (5/2020-6/2020)
 
 
 <!---
