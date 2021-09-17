@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Undergraduate Researcher at the BITS AI/ML Lab and the APPCAIR AI Research Center. I am interested in Cognitive AI, Reinforcement Learning, Natural Language Processing and deep learning. My current projects include  <a href="https://alfred100p.github.io/portfolio/brl">bayesian reinforcement learning for optimal control</a> and <a href="https://alfred100p.github.io/portfolio/aiml">knowledge-based tasks for images</a>. I also am a contributor to OpenAI's gym repository.
 
-Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/files/Alfred_William_Jacob__Resume.pdf">here</a> to download my Resume.
+<!--Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/files/Alfred_William_Jacob__Resume.pdf">here</a> to download my Resume.-->
 
 ## My background and history
 
