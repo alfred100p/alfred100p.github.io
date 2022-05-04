@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alfred William Jacob"
-title_separator          : "-"
-name                     : &name "Alfred William Jacob"
+title                    : "Alfred W Jacob"
+title_separator          : ""
+name                     : &name "Alfred W Jacob"
 description              : &description "personal description"
 url                      : https://alfred100p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alfred William Jacob"
+  name             : "Alfred W Jacob"
   avatar           : "Profile.jpeg"
-  bio              : "Undergraduate Researcher at BITS AI/ML Lab and APP Centre AI Research"
+  bio              : "Research Assistant at LARG UT Austin"
   location         : 
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alfred-william-jacob"
+  linkedin         : "alfredwjacob"
   orcid            :
   pinterest        :
   soundcloud       :
