@@ -14,27 +14,33 @@ My previous research includes Maximum Entropy Formulation of RL, Distributional 
 
 ## My background and history
 
-### Education
-I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). During my time here I was a part of three labs as an Undergraduate Researcher. 
+### Research
+I am currently involved in research in Reinforcement Learning and Natural Language Processing. I have previously worked in Computer Vision problems for improving the information obtained from an image by introducing a novel image feature based on NLP approaches. My interest is mainly in Conversational AI while I still enjoy exploring new applications for my fields.
 
-* <a href="https://alfred100p.github.io/portfolio/appcair">Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR)</a> (8/2021- Present)
-* <a href="https://alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- Present)
-* <a href="https://alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
-
-I am currently a Teaching Assistant for the following Courses:
-
-* Deep Learning (CS F425)
-* Neural Networks and Fuzzy Logic (BITS F312)
-
-### Colaboration
+#### Colaboration
 I am working with Prof. Peter Stone (University of Texas, Austin) on the maximum entropy formulation of Reinforcement Learning.
-I have worked with Prof. Heena Rathore (University of Texas, San Antonio), on distirbutional reinforcement learning.
+
+I have worked with Prof. Heena Rathore (University of Texas, San Antonio), on distirbutional Reinforcement Learning.
+
+During my Bachelors Degree here I was a part of three labs as an Researcher. 
+
+* <a href="https://alfred100p.github.io/portfolio/appcair">Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR)</a> (8/2021- 12/2021)
+* <a href="https://alfred100p.github.io/portfolio/aiml">BITS AI/ML Lab</a> (12/2020- 12/2021)
+* <a href="https://alfred100p.github.io/portfolio/wisoc">Web Intelligence & Social Computing Laboratory</a> (3/2020-12/2020)
 
 ### Work Experience
 I have worked at:
 
 * <a href="https://alfred100p.github.io/portfolio/sri">Samsung Research Institute, Delhi</a>, Research Intern (6/2021-7/2021)
 * <a href="https://alfred100p.github.io/portfolio/wb">Tamil Nadu Health System Reforms Project</a>, a World Bank funded project, Data Analyst Intern (5/2020-6/2020)
+
+### Education
+I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). 
+
+I have been a Teaching Assistant for the following Courses:
+
+* Deep Learning (CS F425)- Selected as one out of two TAs amongst students for the course when it started.
+* Neural Networks and Fuzzy Logic (BITS F312)
 
 
 <!---
