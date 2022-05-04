@@ -35,7 +35,7 @@ I have worked at:
 * <a href="https://alfred100p.github.io/portfolio/wb">Tamil Nadu Health System Reforms Project</a>, a World Bank funded project, Data Analyst Intern (5/2020-6/2020)
 
 ### Education
-I am currently a senior student pursuing a Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). 
+Bachelor's Degree (B.E. (Hons.)) in Computer Science at the Birla Institute of Technology and Science, Pilani (BITS Pilani). 
 
 I have been a Teaching Assistant for the following Courses:
 
