@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Student Researcher at the Learning Agents Research Group LARG advised by Prof. Peter Stone in the field of Reinforcement Learning (RL) for my Bachelor thesis. I am also interested in working tin the field of Natural Language Processing (NLP) and even using RL to solve NLP problems.
+I am a Student Researcher at the Learning Agents Research Group LARG advised by Prof. Peter Stone in the field of Reinforcement Learning (RL). I am  interested in working in the field of Natural Language Processing (NLP) and even using RL to solve NLP problems.
 My previous research includes Maximum Entropy Formulation of RL, Distributional RL, Low Resource Language Dataset Generation, Image Feature Generation and HateSpeech Detection (Paper Presented at AAAI 2021). I have previously interned at Samsung Research Institute in which I worked on a recommender system. I also am a contributor to OpenAI's gym repository.
 
 <!--Click <a href="https://github.com/alfred100p/alfred100p.github.io/raw/master/files/Alfred_William_Jacob__Resume.pdf">here</a> to download my Resume.-->
